@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`taking snapshot? 1`] = `
+<div
+  id="article-div"
+>
+  <button>
+    ADD
+  </button>
+  <form>
+    <input
+      value="dd"
+    />
+    <div
+      id="kurwa"
+    />
+    <button
+      id="clicks"
+    >
+      ADD FROM API
+    </button>
+  </form>
+  <ul>
+    <h1>
+      <img />
+    </h1>
+    <h1>
+      <img />
+    </h1>
+    <h1>
+      <img />
+    </h1>
+  </ul>
+  <div
+    id="checkState"
+  />
+  <div
+    id="props"
+  />
+</div>
+`;
